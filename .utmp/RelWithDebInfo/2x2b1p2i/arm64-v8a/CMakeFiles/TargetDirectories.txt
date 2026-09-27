@@ -1,0 +1,5 @@
+C:/Users/asadb/Documents/GitHub/ABC-Learning/.utmp/RelWithDebInfo/2x2b1p2i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/asadb/Documents/GitHub/ABC-Learning/.utmp/RelWithDebInfo/2x2b1p2i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/asadb/Documents/GitHub/ABC-Learning/.utmp/RelWithDebInfo/2x2b1p2i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/asadb/Documents/GitHub/ABC-Learning/.utmp/RelWithDebInfo/2x2b1p2i/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/asadb/Documents/GitHub/ABC-Learning/.utmp/RelWithDebInfo/2x2b1p2i/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

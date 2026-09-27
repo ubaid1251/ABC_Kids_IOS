@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: dd5afa7401e7a634fa337bc3b0cfd516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5512245368871790655
+    second: yig5_7nyy_170101 (1)_0
+  - first:
+      213: -2668545851986134264
+    second: yig5_7nyy_170101 (1)_1
+  - first:
+      213: 2664467089158948501
+    second: yig5_7nyy_170101 (1)_2
+  - first:
+      213: -1278826270910532636
+    second: yig5_7nyy_170101 (1)_3
+  - first:
+      213: 5695035231004191892
+    second: yig5_7nyy_170101 (1)_4
+  - first:
+      213: 8610589853042118867
+    second: yig5_7nyy_170101 (1)_5
+  - first:
+      213: -8242537928783168696
+    second: yig5_7nyy_170101 (1)_6
+  - first:
+      213: -4144022826112994450
+    second: yig5_7nyy_170101 (1)_7
+  - first:
+      213: -2477755768390712817
+    second: yig5_7nyy_170101 (1)_8
+  - first:
+      213: -6120162515882043028
+    second: yig5_7nyy_170101 (1)_9
+  - first:
+      213: -3037210459612147875
+    second: yig5_7nyy_170101 (1)_10
+  - first:
+      213: -2430671825184041662
+    second: yig5_7nyy_170101 (1)_11
+  - first:
+      213: 7467456193802152133
+    second: yig5_7nyy_170101 (1)_12
+  - first:
+      213: 4759398557112120979
+    second: yig5_7nyy_170101 (1)_13
+  - first:
+      213: 9136113857613196533
+    second: yig5_7nyy_170101 (1)_14
+  - first:
+      213: -6869435208879239182
+    second: yig5_7nyy_170101 (1)_15
+  - first:
+      213: 1692931230555624689
+    second: yig5_7nyy_170101 (1)_16
+  - first:
+      213: -6607983538958226687
+    second: yig5_7nyy_170101 (1)_17
+  - first:
+      213: 8307214915857657940
+    second: yig5_7nyy_170101 (1)_18
+  - first:
+      213: -7567116827661881588
+    second: yig5_7nyy_170101 (1)_19
+  - first:
+      213: 6421492460167899099
+    second: yig5_7nyy_170101 (1)_20
+  - first:
+      213: 5097148402169525841
+    second: yig5_7nyy_170101 (1)_21
+  - first:
+      213: 6645324594347020103
+    second: yig5_7nyy_170101 (1)_22
+  - first:
+      213: 8371197719179231490
+    second: yig5_7nyy_170101 (1)_23
+  - first:
+      213: 4498651916875855460
+    second: yig5_7nyy_170101 (1)_24
+  - first:
+      213: -41832625628766082
+    second: yig5_7nyy_170101 (1)_25
+  - first:
+      213: 3153816003746588792
+    second: yig5_7nyy_170101 (1)_26
+  - first:
+      213: 7003095629634676831
+    second: yig5_7nyy_170101 (1)_27
+  - first:
+      213: 7948704486970165520
+    second: yig5_7nyy_170101 (1)_28
+  - first:
+      213: 3722368828458887516
+    second: yig5_7nyy_170101 (1)_29
+  - first:
+      213: 4127742231613613107
+    second: yig5_7nyy_170101 (1)_30
+  - first:
+      213: 6122735870888436318
+    second: yig5_7nyy_170101 (1)_31
+  - first:
+      213: 94306181661288471
+    second: yig5_7nyy_170101 (1)_32
+  - first:
+      213: -5387830357229551313
+    second: yig5_7nyy_170101 (1)_33
+  - first:
+      213: -6860321371011408734
+    second: yig5_7nyy_170101 (1)_34
+  - first:
+      213: 2319217101961226536
+    second: yig5_7nyy_170101 (1)_35
+  - first:
+      213: 2727592881568594958
+    second: yig5_7nyy_170101 (1)_36
+  - first:
+      213: 8588064505313638494
+    second: yig5_7nyy_170101 (1)_37
+  - first:
+      213: -658803553158823668
+    second: yig5_7nyy_170101 (1)_38
+  - first:
+      213: 6803743305377897636
+    second: yig5_7nyy_170101 (1)_39
+  - first:
+      213: 957345921402165981
+    second: yig5_7nyy_170101 (1)_40
+  - first:
+      213: -51928216150662773
+    second: yig5_7nyy_170101 (1)_41
+  - first:
+      213: -752814918431685874
+    second: yig5_7nyy_170101 (1)_42
+  - first:
+      213: 7134843321656079281
+    second: yig5_7nyy_170101 (1)_43
+  - first:
+      213: -4591276144059176957
+    second: yig5_7nyy_170101 (1)_44
+  - first:
+      213: 7972008560970925518
+    second: yig5_7nyy_170101 (1)_45
+  - first:
+      213: -3247129450676882977
+    second: yig5_7nyy_170101 (1)_46
+  - first:
+      213: 8013304665350151640
+    second: yig5_7nyy_170101 (1)_47
+  - first:
+      213: 1967303695282968299
+    second: yig5_7nyy_170101 (1)_48
+  - first:
+      213: 6613595335890930410
+    second: yig5_7nyy_170101 (1)_49
+  - first:
+      213: 188039383941739131
+    second: yig5_7nyy_170101 (1)_50
+  - first:
+      213: -6708346941367621113
+    second: yig5_7nyy_170101 (1)_51
+  - first:
+      213: 4179667633801238632
+    second: yig5_7nyy_170101 (1)_52
+  - first:
+      213: 8596980620328527066
+    second: yig5_7nyy_170101 (1)_53
+  - first:
+      213: 6939059438177105302
+    second: yig5_7nyy_170101 (1)_54
+  - first:
+      213: -9139088480541096189
+    second: yig5_7nyy_170101 (1)_55
+  - first:
+      213: 2944084570005851001
+    second: yig5_7nyy_170101 (1)_56
+  - first:
+      213: 3035504813596455522
+    second: yig5_7nyy_170101 (1)_57
+  - first:
+      213: -7687326618764542803
+    second: yig5_7nyy_170101 (1)_58
+  - first:
+      213: -7646861798396143061
+    second: yig5_7nyy_170101 (1)_59
+  - first:
+      213: 2327829493677778422
+    second: yig5_7nyy_170101 (1)_60
+  - first:
+      213: -6755119867838196330
+    second: yig5_7nyy_170101 (1)_61
+  - first:
+      213: 980396666697214330
+    second: yig5_7nyy_170101 (1)_62
+  - first:
+      213: 6091651580133796736
+    second: yig5_7nyy_170101 (1)_63
+  - first:
+      213: 1188500938649791674
+    second: yig5_7nyy_170101 (1)_64
+  - first:
+      213: 4116701572597584694
+    second: yig5_7nyy_170101 (1)_65
+  - first:
+      213: 8603296387277610781
+    second: yig5_7nyy_170101 (1)_66
+  - first:
+      213: -8994354824055242518
+    second: yig5_7nyy_170101 (1)_67
+  - first:
+      213: 1572617840173442426
+    second: yig5_7nyy_170101 (1)_68
+  - first:
+      213: 6586085663177193638
+    second: yig5_7nyy_170101 (1)_69
+  - first:
+      213: -277085565359057134
+    second: yig5_7nyy_170101 (1)_70
+  - first:
+      213: -7813607571717139921
+    second: yig5_7nyy_170101 (1)_71
+  - first:
+      213: -49345031286939894
+    second: yig5_7nyy_170101 (1)_72
+  - first:
+      213: 2922516886769820262
+    second: yig5_7nyy_170101 (1)_73
+  - first:
+      213: -6027400460361002253
+    second: yig5_7nyy_170101 (1)_74
+  - first:
+      213: -5490451304799553453
+    second: yig5_7nyy_170101 (1)_75
+  - first:
+      213: -6829512452824590502
+    second: yig5_7nyy_170101 (1)_76
+  - first:
+      213: 9223102063615829124
+    second: yig5_7nyy_170101 (1)_77
+  - first:
+      213: 5259780445748284829
+    second: yig5_7nyy_170101 (1)_78
+  - first:
+      213: 5925053417728909306
+    second: yig5_7nyy_170101 (1)_79
+  - first:
+      213: -5768196680505492696
+    second: yig5_7nyy_170101 (1)_80
+  - first:
+      213: 6556510793880638127
+    second: yig5_7nyy_170101 (1)_81
+  - first:
+      213: 6113923341434274592
+    second: yig5_7nyy_170101 (1)_82
+  - first:
+      213: -2366111704149749400
+    second: yig5_7nyy_170101 (1)_83
+  - first:
+      213: -4077801700425352408
+    second: yig5_7nyy_170101 (1)_84
+  - first:
+      213: -4987171678818624567
+    second: yig5_7nyy_170101 (1)_85
+  - first:
+      213: -9041434913752309066
+    second: yig5_7nyy_170101 (1)_86
+  - first:
+      213: 3028166008264467881
+    second: yig5_7nyy_170101 (1)_87
+  - first:
+      213: 9098180019530121733
+    second: yig5_7nyy_170101 (1)_88
+  - first:
+      213: 4842732301656035451
+    second: yig5_7nyy_170101 (1)_89
+  - first:
+      213: 3678618082335250454
+    second: yig5_7nyy_170101 (1)_90
+  - first:
+      213: -1893746227666260347
+    second: yig5_7nyy_170101 (1)_91
+  - first:
+      213: -2299079209835425318
+    second: yig5_7nyy_170101 (1)_92
+  - first:
+      213: -2309971753030861289
+    second: yig5_7nyy_170101 (1)_93
+  - first:
+      213: 7274251924924567886
+    second: yig5_7nyy_170101 (1)_94
+  - first:
+      213: -7853496662354157011
+    second: yig5_7nyy_170101 (1)_95
+  - first:
+      213: -8622789002036348487
+    second: yig5_7nyy_170101 (1)_96
+  - first:
+      213: 1092573549305944140
+    second: yig5_7nyy_170101 (1)_97
+  - first:
+      213: -3763829899822571439
+    second: yig5_7nyy_170101 (1)_98
+  - first:
+      213: 7689716567210649310
+    second: yig5_7nyy_170101 (1)_99
+  - first:
+      213: -8343988311860770528
+    second: yig5_7nyy_170101 (1)_100
+  - first:
+      213: 3954837617124499727
+    second: yig5_7nyy_170101 (1)_101
+  - first:
+      213: 3557174601297719199
+    second: yig5_7nyy_170101 (1)_102
+  - first:
+      213: 7207085588066585810
+    second: yig5_7nyy_170101 (1)_103
+  - first:
+      213: -5832058605300436823
+    second: yig5_7nyy_170101 (1)_104
+  - first:
+      213: -808880682419755364
+    second: yig5_7nyy_170101 (1)_105
+  - first:
+      213: -3395416132848561380
+    second: yig5_7nyy_170101 (1)_106
+  - first:
+      213: 8376908133471217698
+    second: yig5_7nyy_170101 (1)_107
+  - first:
+      213: 3036245653096507978
+    second: yig5_7nyy_170101 (1)_108
+  - first:
+      213: -4123305823028380970
+    second: yig5_7nyy_170101 (1)_109
+  - first:
+      213: -2062020435441209257
+    second: yig5_7nyy_170101 (1)_110
+  - first:
+      213: 7343231865561093546
+    second: yig5_7nyy_170101 (1)_111
+  - first:
+      213: 4239066850817275375
+    second: yig5_7nyy_170101 (1)_112
+  - first:
+      213: -950034425565575361
+    second: yig5_7nyy_170101 (1)_113
+  - first:
+      213: -6853725878719828904
+    second: yig5_7nyy_170101 (1)_114
+  - first:
+      213: 7749642890051830102
+    second: yig5_7nyy_170101 (1)_115
+  - first:
+      213: 6114527063544539844
+    second: yig5_7nyy_170101 (1)_116
+  - first:
+      213: 7986113653017158621
+    second: yig5_7nyy_170101 (1)_117
+  - first:
+      213: 1452531571403682836
+    second: yig5_7nyy_170101 (1)_118
+  - first:
+      213: 5010419770325797388
+    second: yig5_7nyy_170101 (1)_119
+  - first:
+      213: -8219017200371684618
+    second: yig5_7nyy_170101 (1)_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38256635fd6f7c40800000000000000
+      internalID: 5512245368871790655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 585
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b3689afab67fad0800000000000000
+      internalID: -2668545851986134264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 578
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c90d53b61af420800000000000000
+      internalID: 2664467089158948501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 683
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b0f83842b04ee0800000000000000
+      internalID: -1278826270910532636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 656
+        width: 91
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce6577e54d80f40800000000000000
+      internalID: 5695035231004191892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 682
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09829b9d5fe7770800000000000000
+      internalID: 8610589853042118867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 682
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf133bc6f9c9d80800000000000000
+      internalID: -8242537928783168696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 671
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63bc6412397d76c0800000000000000
+      internalID: -4144022826112994450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0285e0a14e3d9dd0800000000000000
+      internalID: -2477755768390712817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 631
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6990392e90d01ba0800000000000000
+      internalID: -6120162515882043028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 647
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f87b6cd29a9d5d0800000000000000
+      internalID: -3037210459612147875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 618
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245da5e6ad4844ed0800000000000000
+      internalID: -2430671825184041662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 630
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82e5f08dbb1a760800000000000000
+      internalID: 7467456193802152133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bc2575c7cc0240800000000000000
+      internalID: 4759398557112120979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 664
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcee86f52ff9ce70800000000000000
+      internalID: 9136113857613196533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 659
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff0137c21ddaa0a0800000000000000
+      internalID: -6869435208879239182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 660
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4de621cff7e7710800000000000000
+      internalID: 1692931230555624689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b24ce5bf9bb44a0800000000000000
+      internalID: -6607983538958226687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 635
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b584d3f7294370800000000000000
+      internalID: 8307214915857657940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 625
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f255966533cf690800000000000000
+      internalID: -7567116827661881588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 619
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd72828be59bd1950800000000000000
+      internalID: 6421492460167899099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 564
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b3c64775bcb640800000000000000
+      internalID: 5097148402169525841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 635
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8837928fe83c50800000000000000
+      internalID: 6645324594347020103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 598
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2010d3c19f77c2470800000000000000
+      internalID: 8371197719179231490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 623
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f381651c6e6e30800000000000000
+      internalID: 4498651916875855460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 609
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702069d2716b6ff0800000000000000
+      internalID: -41832625628766082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 511
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878e14e12fa94cb20800000000000000
+      internalID: 3153816003746588792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 522
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5827740f5eff2160800000000000000
+      internalID: 7003095629634676831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 503
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019096aed987f4e60800000000000000
+      internalID: 7948704486970165520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 518
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59674f3ab288a330800000000000000
+      internalID: 3722368828458887516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 532
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33425bf90bfa84930800000000000000
+      internalID: 4127742231613613107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e8ddb5d358f450800000000000000
+      internalID: 6122735870888436318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 500
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186b0af8fa0f4100800000000000000
+      internalID: 94306181661288471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 440
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21444706d49a35b0800000000000000
+      internalID: -5387830357229551313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 506
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac18d38f0e3bc0a0800000000000000
+      internalID: -6860321371011408734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 488
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e86f9aa38f2020800000000000000
+      internalID: 2319217101961226536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 476
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cb7cd364b5ad520800000000000000
+      internalID: 2727592881568594958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 500
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583c538a2fee2770800000000000000
+      internalID: 8588064505313638494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01043da8a57bd6f0800000000000000
+      internalID: -658803553158823668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 390
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acddfb0d70cb6e50800000000000000
+      internalID: 6803743305377897636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 475
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda58541b0d294d00800000000000000
+      internalID: 957345921402165981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 498
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8125820093874ff0800000000000000
+      internalID: -51928216150662773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c34df1d67d85f0800000000000000
+      internalID: -752814918431685874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f063f23e040360800000000000000
+      internalID: 7134843321656079281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 479
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308a0af2ca28840c0800000000000000
+      internalID: -4591276144059176957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 448
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec58b077c8342ae60800000000000000
+      internalID: 7972008560970925518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 478
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1f1b8f7f0efe2d0800000000000000
+      internalID: -3247129450676882977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1d27032af43f60800000000000000
+      internalID: 8013304665350151640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 453
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be697a2a9444d4b10800000000000000
+      internalID: 1967303695282968299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 463
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea85fbeae538cb50800000000000000
+      internalID: 6613595335890930410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 434
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7271abc2dc0c9200800000000000000
+      internalID: 188039383941739131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a64b9cff927e2a0800000000000000
+      internalID: -6708346941367621113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 451
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689bef6199210a30800000000000000
+      internalID: 4179667633801238632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 454
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4699f435c9e4770800000000000000
+      internalID: 8596980620328527066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953ed75bcd7c4060800000000000000
+      internalID: 6939059438177105302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 419
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307cb7aa27f6b2180800000000000000
+      internalID: -9139088480541096189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 431
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b48e7615d7bd820800000000000000
+      internalID: 2944084570005851001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 434
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262b7609b87402a20800000000000000
+      internalID: 3035504813596455522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 411
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac72206b21215590800000000000000
+      internalID: -7687326618764542803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 444
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad71c85b3e0e590800000000000000
+      internalID: -7646861798396143061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 409
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f56754579c1e4020800000000000000
+      internalID: 2327829493677778422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 442
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6951256354ef042a0800000000000000
+      internalID: -6755119867838196330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 423
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e671f2911b9d00800000000000000
+      internalID: 980396666697214330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 378
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b625156d4e98450800000000000000
+      internalID: 6091651580133796736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc60778e476e7010800000000000000
+      internalID: 1188500938649791674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 432
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63398f0e446712930800000000000000
+      internalID: 4116701572597584694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 421
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f55156b7c056770800000000000000
+      internalID: 8603296387277610781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 412
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0cd5011f1ad2380800000000000000
+      internalID: -8994354824055242518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 425
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75eaf2f79f03d510800000000000000
+      internalID: 1572617840173442426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 425
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a838fd140a766b50800000000000000
+      internalID: 6586085663177193638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 423
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21792687528972cf0800000000000000
+      internalID: -277085565359057134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 408
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225f71df4d709390800000000000000
+      internalID: -7813607571717139921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 372
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f16ba94f0b05ff0800000000000000
+      internalID: -49345031286939894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 415
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662eef5df9dde8820800000000000000
+      internalID: 2922516886769820262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21821473f5a5ca0800000000000000
+      internalID: -6027400460361002253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 397
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b7d0c0affdc3b0800000000000000
+      internalID: -5490451304799553453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 387
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579844cb92b831a0800000000000000
+      internalID: -6829512452824590502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 386
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4846ef4f57a0fff70800000000000000
+      internalID: 9223102063615829124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 386
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d4f59a27e7ef840800000000000000
+      internalID: 5259780445748284829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 386
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff12fee0b40a3250800000000000000
+      internalID: 5925053417728909306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 323
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf1e72eaf33ffa0800000000000000
+      internalID: -5768196680505492696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 388
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2154344d76dfa50800000000000000
+      internalID: 6556510793880638127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 366
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c826d2e409d450800000000000000
+      internalID: 6113923341434274592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 350
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8619247f0f1e92fd0800000000000000
+      internalID: -2366111704149749400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 377
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb9a565fcb867c0800000000000000
+      internalID: -4077801700425352408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 352
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb902208c10acab0800000000000000
+      internalID: -4987171678818624567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 327
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2aaf979de568280800000000000000
+      internalID: -9041434913752309066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 364
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5248bc0f4360a20800000000000000
+      internalID: 3028166008264467881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 363
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50246a6068a334e70800000000000000
+      internalID: 9098180019530121733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 364
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709486de57d43340800000000000000
+      internalID: 4842732301656035451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 349
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618dbedd7a31d0330800000000000000
+      internalID: 3678618082335250454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 363
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6735e6df08b5e0800000000000000
+      internalID: -1893746227666260347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 353
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad11643c3a70810e0800000000000000
+      internalID: -2299079209835425318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 338
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb86bede451ffd0800000000000000
+      internalID: -2309971753030861289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 361
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4194d7c59553f460800000000000000
+      internalID: 7274251924924567886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 368
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222aab2566c20390800000000000000
+      internalID: -7853496662354157011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 331
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b97a709613b55880800000000000000
+      internalID: -8622789002036348487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 361
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485e59bad9992f00800000000000000
+      internalID: 1092573549305944140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 351
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150e412d5a034cbc0800000000000000
+      internalID: -3763829899822571439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 341
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e60cd97c57ba60800000000000000
+      internalID: 7689716567210649310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290785b6d2343c80800000000000000
+      internalID: -8343988311860770528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 356
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ee01fbd762e630800000000000000
+      internalID: 3954837617124499727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 342
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f6462047f9d5130800000000000000
+      internalID: 3557174601297719199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 339
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dccb865826b40460800000000000000
+      internalID: 7207085588066585810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0bec9199d501fa0800000000000000
+      internalID: -5832058605300436823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96e1b21e4746c4f0800000000000000
+      internalID: -808880682419755364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 344
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c135ee0540f01e0d0800000000000000
+      internalID: -3395416132848561380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 335
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e1ab8091c04470800000000000000
+      internalID: 8376908133471217698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 327
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a24a3b559e22a20800000000000000
+      internalID: 3036245653096507978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daf71e333317c6c0800000000000000
+      internalID: -4123305823028380970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7503ee9c65b3263e0800000000000000
+      internalID: -2062020435441209257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 319
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa51912c97668e560800000000000000
+      internalID: 7343231865561093546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 326
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5f81e57d034da30800000000000000
+      internalID: 4239066850817275375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 502
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3785c339bcc0d2f0800000000000000
+      internalID: -950034425565575361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca00b30aca2e0a0800000000000000
+      internalID: -6853725878719828904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651cbad26234c8b60800000000000000
+      internalID: 7749642890051830102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 319
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caa518d7f92bd450800000000000000
+      internalID: 6114527063544539844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 321
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32cff1e0064de60800000000000000
+      internalID: 7986113653017158621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 321
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147e82b4cd682410800000000000000
+      internalID: 1452531571403682836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 319
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a0dd91c36988540800000000000000
+      internalID: 5010419770325797388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yig5_7nyy_170101 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 318
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2509076f20fd80800000000000000
+      internalID: -8219017200371684618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yig5_7nyy_170101 (1)_0: 5512245368871790655
+      yig5_7nyy_170101 (1)_1: -2668545851986134264
+      yig5_7nyy_170101 (1)_10: -3037210459612147875
+      yig5_7nyy_170101 (1)_100: -8343988311860770528
+      yig5_7nyy_170101 (1)_101: 3954837617124499727
+      yig5_7nyy_170101 (1)_102: 3557174601297719199
+      yig5_7nyy_170101 (1)_103: 7207085588066585810
+      yig5_7nyy_170101 (1)_104: -5832058605300436823
+      yig5_7nyy_170101 (1)_105: -808880682419755364
+      yig5_7nyy_170101 (1)_106: -3395416132848561380
+      yig5_7nyy_170101 (1)_107: 8376908133471217698
+      yig5_7nyy_170101 (1)_108: 3036245653096507978
+      yig5_7nyy_170101 (1)_109: -4123305823028380970
+      yig5_7nyy_170101 (1)_11: -2430671825184041662
+      yig5_7nyy_170101 (1)_110: -2062020435441209257
+      yig5_7nyy_170101 (1)_111: 7343231865561093546
+      yig5_7nyy_170101 (1)_112: 4239066850817275375
+      yig5_7nyy_170101 (1)_113: -950034425565575361
+      yig5_7nyy_170101 (1)_114: -6853725878719828904
+      yig5_7nyy_170101 (1)_115: 7749642890051830102
+      yig5_7nyy_170101 (1)_116: 6114527063544539844
+      yig5_7nyy_170101 (1)_117: 7986113653017158621
+      yig5_7nyy_170101 (1)_118: 1452531571403682836
+      yig5_7nyy_170101 (1)_119: 5010419770325797388
+      yig5_7nyy_170101 (1)_12: 7467456193802152133
+      yig5_7nyy_170101 (1)_120: -8219017200371684618
+      yig5_7nyy_170101 (1)_13: 4759398557112120979
+      yig5_7nyy_170101 (1)_14: 9136113857613196533
+      yig5_7nyy_170101 (1)_15: -6869435208879239182
+      yig5_7nyy_170101 (1)_16: 1692931230555624689
+      yig5_7nyy_170101 (1)_17: -6607983538958226687
+      yig5_7nyy_170101 (1)_18: 8307214915857657940
+      yig5_7nyy_170101 (1)_19: -7567116827661881588
+      yig5_7nyy_170101 (1)_2: 2664467089158948501
+      yig5_7nyy_170101 (1)_20: 6421492460167899099
+      yig5_7nyy_170101 (1)_21: 5097148402169525841
+      yig5_7nyy_170101 (1)_22: 6645324594347020103
+      yig5_7nyy_170101 (1)_23: 8371197719179231490
+      yig5_7nyy_170101 (1)_24: 4498651916875855460
+      yig5_7nyy_170101 (1)_25: -41832625628766082
+      yig5_7nyy_170101 (1)_26: 3153816003746588792
+      yig5_7nyy_170101 (1)_27: 7003095629634676831
+      yig5_7nyy_170101 (1)_28: 7948704486970165520
+      yig5_7nyy_170101 (1)_29: 3722368828458887516
+      yig5_7nyy_170101 (1)_3: -1278826270910532636
+      yig5_7nyy_170101 (1)_30: 4127742231613613107
+      yig5_7nyy_170101 (1)_31: 6122735870888436318
+      yig5_7nyy_170101 (1)_32: 94306181661288471
+      yig5_7nyy_170101 (1)_33: -5387830357229551313
+      yig5_7nyy_170101 (1)_34: -6860321371011408734
+      yig5_7nyy_170101 (1)_35: 2319217101961226536
+      yig5_7nyy_170101 (1)_36: 2727592881568594958
+      yig5_7nyy_170101 (1)_37: 8588064505313638494
+      yig5_7nyy_170101 (1)_38: -658803553158823668
+      yig5_7nyy_170101 (1)_39: 6803743305377897636
+      yig5_7nyy_170101 (1)_4: 5695035231004191892
+      yig5_7nyy_170101 (1)_40: 957345921402165981
+      yig5_7nyy_170101 (1)_41: -51928216150662773
+      yig5_7nyy_170101 (1)_42: -752814918431685874
+      yig5_7nyy_170101 (1)_43: 7134843321656079281
+      yig5_7nyy_170101 (1)_44: -4591276144059176957
+      yig5_7nyy_170101 (1)_45: 7972008560970925518
+      yig5_7nyy_170101 (1)_46: -3247129450676882977
+      yig5_7nyy_170101 (1)_47: 8013304665350151640
+      yig5_7nyy_170101 (1)_48: 1967303695282968299
+      yig5_7nyy_170101 (1)_49: 6613595335890930410
+      yig5_7nyy_170101 (1)_5: 8610589853042118867
+      yig5_7nyy_170101 (1)_50: 188039383941739131
+      yig5_7nyy_170101 (1)_51: -6708346941367621113
+      yig5_7nyy_170101 (1)_52: 4179667633801238632
+      yig5_7nyy_170101 (1)_53: 8596980620328527066
+      yig5_7nyy_170101 (1)_54: 6939059438177105302
+      yig5_7nyy_170101 (1)_55: -9139088480541096189
+      yig5_7nyy_170101 (1)_56: 2944084570005851001
+      yig5_7nyy_170101 (1)_57: 3035504813596455522
+      yig5_7nyy_170101 (1)_58: -7687326618764542803
+      yig5_7nyy_170101 (1)_59: -7646861798396143061
+      yig5_7nyy_170101 (1)_6: -8242537928783168696
+      yig5_7nyy_170101 (1)_60: 2327829493677778422
+      yig5_7nyy_170101 (1)_61: -6755119867838196330
+      yig5_7nyy_170101 (1)_62: 980396666697214330
+      yig5_7nyy_170101 (1)_63: 6091651580133796736
+      yig5_7nyy_170101 (1)_64: 1188500938649791674
+      yig5_7nyy_170101 (1)_65: 4116701572597584694
+      yig5_7nyy_170101 (1)_66: 8603296387277610781
+      yig5_7nyy_170101 (1)_67: -8994354824055242518
+      yig5_7nyy_170101 (1)_68: 1572617840173442426
+      yig5_7nyy_170101 (1)_69: 6586085663177193638
+      yig5_7nyy_170101 (1)_7: -4144022826112994450
+      yig5_7nyy_170101 (1)_70: -277085565359057134
+      yig5_7nyy_170101 (1)_71: -7813607571717139921
+      yig5_7nyy_170101 (1)_72: -49345031286939894
+      yig5_7nyy_170101 (1)_73: 2922516886769820262
+      yig5_7nyy_170101 (1)_74: -6027400460361002253
+      yig5_7nyy_170101 (1)_75: -5490451304799553453
+      yig5_7nyy_170101 (1)_76: -6829512452824590502
+      yig5_7nyy_170101 (1)_77: 9223102063615829124
+      yig5_7nyy_170101 (1)_78: 5259780445748284829
+      yig5_7nyy_170101 (1)_79: 5925053417728909306
+      yig5_7nyy_170101 (1)_8: -2477755768390712817
+      yig5_7nyy_170101 (1)_80: -5768196680505492696
+      yig5_7nyy_170101 (1)_81: 6556510793880638127
+      yig5_7nyy_170101 (1)_82: 6113923341434274592
+      yig5_7nyy_170101 (1)_83: -2366111704149749400
+      yig5_7nyy_170101 (1)_84: -4077801700425352408
+      yig5_7nyy_170101 (1)_85: -4987171678818624567
+      yig5_7nyy_170101 (1)_86: -9041434913752309066
+      yig5_7nyy_170101 (1)_87: 3028166008264467881
+      yig5_7nyy_170101 (1)_88: 9098180019530121733
+      yig5_7nyy_170101 (1)_89: 4842732301656035451
+      yig5_7nyy_170101 (1)_9: -6120162515882043028
+      yig5_7nyy_170101 (1)_90: 3678618082335250454
+      yig5_7nyy_170101 (1)_91: -1893746227666260347
+      yig5_7nyy_170101 (1)_92: -2299079209835425318
+      yig5_7nyy_170101 (1)_93: -2309971753030861289
+      yig5_7nyy_170101 (1)_94: 7274251924924567886
+      yig5_7nyy_170101 (1)_95: -7853496662354157011
+      yig5_7nyy_170101 (1)_96: -8622789002036348487
+      yig5_7nyy_170101 (1)_97: 1092573549305944140
+      yig5_7nyy_170101 (1)_98: -3763829899822571439
+      yig5_7nyy_170101 (1)_99: 7689716567210649310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

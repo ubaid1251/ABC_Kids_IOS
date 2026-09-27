@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MultiColorBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Painted
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Painted
+    uniqueID: 1832272777
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Win
+    uniqueID: 951214957
+    locked: 0
+  - name: banner
+    uniqueID: 4222188075
+    locked: 0
+  - name: Front
+    uniqueID: 1931834913
+    locked: 0
+  - name: Top
+    uniqueID: 2579210063
+    locked: 0

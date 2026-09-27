@@ -1,0 +1,24 @@
+# files
+.DS_Store
+.vsconfig
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+GoogleMobileAds.Editor.csproj
+
+# folders
+.vs/
+Library/
+Logs/
+*.sln
+Packages/
+UserSettings/
+obj/
+*.csjpro
+*.csproj
+*.bundle
+*.dll
+*.apk
+*.zip
+*.aab
+*.so
