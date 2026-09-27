@@ -2552,7 +2552,7 @@ PrefabInstance:
     - target: {fileID: 8860915613824445133, guid: 461b4f8d69f4c4c5f99d4ec18bd18299, type: 3}
       propertyPath: buy
       value: 
-      objectReference: {fileID: 922496647}
+      objectReference: {fileID: 0}
     - target: {fileID: 8860915613824445133, guid: 461b4f8d69f4c4c5f99d4ec18bd18299, type: 3}
       propertyPath: activeObject
       value: 
@@ -9566,7 +9566,6 @@ GameObject:
   - component: {fileID: 922496644}
   - component: {fileID: 922496643}
   - component: {fileID: 922496646}
-  - component: {fileID: 922496647}
   m_Layer: 5
   m_Name: NoAds
   m_TagString: Untagged
@@ -9613,7 +9612,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fcf806d6a99d749db9fa684d90d5b1d7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3ac5f46ee1c99a74fb45bb34f82feaad, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9699,18 +9698,6 @@ MonoBehaviour:
           m_StringArgument: RemoveAdsPanel
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &922496647
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 922496641}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 586d1dd0fd96c424183b296dc02eb20a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &937630348
 GameObject:
   m_ObjectHideFlags: 0

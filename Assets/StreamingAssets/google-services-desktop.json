@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "955768969520",
+    "project_id": "abc-autism-ios",
+    "storage_bucket": "abc-autism-ios.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955768969520:ios:c19292fd0e6049c49b50f5",
+        "android_client_info": {
+          "package_name": "com.mu.abc.autism.kids.learning"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkyvFpVxWfPb4SqsjJ3rKBOD_mLZmeb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
