@@ -48,8 +48,8 @@ public class TapManager : MonoBehaviour, IPointerDownHandler
         Vibration.Vibrate(50);
         PlayerPrefs.SetInt("Completed", 1);
         PlayerPrefs.SetInt("RateCounter", PlayerPrefs.GetInt("RateCounter") + 1);
-      //  InitializeFirebase_CB._Instance.LogFirebaseEvent("TapABC_Switched_ByHome");
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("TapABC_Switched_ByHome");
+        //InitializeFi._Instance.LogFi();
         DOTween.KillAll(false);
         //if (Intitializeabc.instance.IsStaticInterAvailable())
         //{

@@ -216,11 +216,11 @@ public class ABCManager : MonoBehaviour
         PlayerPrefs.SetInt("Completed", 1);
         PlayerPrefs.SetInt("RateCounter", PlayerPrefs.GetInt("RateCounter") + 1);
         eventSystem.enabled = false;
-        //InitializeFirebase_CB._Instance.LogFirebaseEvent("HomePressed_Gameplay_On_" +
-        //                                                 PlayerPrefs.GetString("SelectedMode") +
-        //                                                 "_Mode"); //remove later
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("HomePressed_Gameplay_On_" +
+                                                         PlayerPrefs.GetString("SelectedMode") +
+                                                         "_Mode"); //remove later
 
-        InitializeFi._Instance.LogFi();
+        //InitializeFi._Instance.LogFi();
         DOTween.KillAll(false);
         //if (SoundHandler.instance.mySource.enabled == true)
         //{

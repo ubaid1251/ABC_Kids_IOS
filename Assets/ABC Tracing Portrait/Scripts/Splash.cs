@@ -32,7 +32,7 @@ public class Splash : MonoBehaviour
 
     public void visitPrivacy()
     {
-        Application.OpenURL("https://sites.google.com/view/amasconsultant-privacy-policy/home");
+        Application.OpenURL("https://muhammadubaidprivacy.blogspot.com/2025/06/privacy-policy.html");
     }
     public void Accept()
     {

@@ -113,8 +113,8 @@ public class MainSelection : MonoBehaviour
     {
         eventSystem.enabled = false;
         SubSelection.cameFrom = "MainSelection";
-        //InitializeFirebase_CB._Instance.LogFirebaseEvent(name + "_SelectedMode");
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent(name + "_SelectedMode");
+        //InitializeFi._Instance.LogFi();
         DOTween.KillAll(false);
         if (SoundHandler.instance.mySource.enabled)
         {
@@ -151,8 +151,8 @@ public class MainSelection : MonoBehaviour
 
     public void LogEvent(string n)
     {
-        //InitializeFirebase_CB._Instance.LogFirebaseEvent("User_Trying_to_Open_"+n);
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("User_Trying_to_Open_" + n);
+        //InitializeFi._Instance.LogFi();
     }
     public void showAdult(GameObject p)
     {

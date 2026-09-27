@@ -17,8 +17,8 @@ public class SettingHandler : MonoBehaviour
     public void Cross()
     {
         SoundHandler.instance.PlaySource(SoundHandler.instance.mySource.clip);
-        // InitializeFirebase_CB._Instance.LogFirebaseEvent("Disabling_Setting_Panel");
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("Disabling_Setting_Panel");
+        //InitializeFi._Instance.LogFi();
         transform.GetChild(0).GetComponent<Animator>().Play("PanelOut");
         Invoke(nameof(HidePanel), 0.9f);
     }

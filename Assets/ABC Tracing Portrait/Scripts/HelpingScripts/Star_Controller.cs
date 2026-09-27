@@ -80,8 +80,8 @@ public class Star_Controller : MonoBehaviour
                 PlaySound.PlayOneShot(PlaySound.clip);
             yield return new WaitForSeconds(0.15f);
         }
-     //   InitializeFirebase_CB._Instance.LogFirebaseEvent("Rate_Game_Rated_With_" + selectedStars.ToString() + "_Stars");
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("Rate_Game_Rated_With_" + selectedStars.ToString() + "_Stars");
+        //InitializeFi._Instance.LogFi();
 
         if (selectedStars < 4)
         {

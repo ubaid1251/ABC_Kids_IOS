@@ -37,8 +37,8 @@ public class RateUsHandler : MonoBehaviour
     {
         SoundHandler.instance.PlaySource(SoundHandler.instance.mySource.clip);
         rate.GetComponent<Animator>().Play("PanelOut");
-       // InitializeFi._Instance.LogFirebaseEvent("Rate_Game_CrossBtn_Pressed"); //lock
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("Rate_Game_CrossBtn_Pressed"); //lock
+        //InitializeFi._Instance.LogFi();
         Invoke(nameof(HidePanel), 0.9f);
     }
     void HidePanel()

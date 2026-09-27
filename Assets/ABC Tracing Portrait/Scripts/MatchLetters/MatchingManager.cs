@@ -145,8 +145,8 @@ public class MatchingManager : MonoBehaviour
         PlayerPrefs.SetInt("Completed", 1);
         PlayerPrefs.SetInt("RateCounter", PlayerPrefs.GetInt("RateCounter") + 1);
         myS.PlayOneShot(click);
-       // InitializeFirebase_CB._Instance.LogFirebaseEvent(SceneManager.GetActiveScene().name+"_Switched_ByHome");
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent(SceneManager.GetActiveScene().name + "_Switched_ByHome");
+        //InitializeFi._Instance.LogFi();
         DOTween.KillAll(false);
         //if (Intitializeabc.instance.IsStaticInterAvailable())
         //{

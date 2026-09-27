@@ -9711,12 +9711,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 586d1dd0fd96c424183b296dc02eb20a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LocalizedPriceText: {fileID: 0}
-  LocalizedPriceTextT: {fileID: 0}
-  IAPIndex: 0
-  OnPurchaseFail:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1 &937630348
 GameObject:
   m_ObjectHideFlags: 0
@@ -21436,7 +21430,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2242424771693024869, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: PrivacyLink
-      value: https://sites.google.com/view/amasconsultant-privacy-policy/home
+      value: https://muhammadubaidprivacy.blogspot.com/2025/06/privacy-policy.html
       objectReference: {fileID: 0}
     - target: {fileID: 2563494345267065637, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_SizeDelta.x
@@ -21448,11 +21442,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3384578983334020332, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 16457.6
+      value: 9674.04
       objectReference: {fileID: 0}
     - target: {fileID: 3384578983334020332, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3384578983334020332, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.00012207031
       objectReference: {fileID: 0}
     - target: {fileID: 3603700299013913464, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_Enabled
@@ -21472,188 +21470,81 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5439226933084443330, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_Text
-      value: "This agreement applies as between you, the User of our apps, website,
-        and services. Your agreement to comply with and be bound by these Terms and
-        Conditions is deemed to occur upon your first use of our apps or our Website.
-        If you do not agree to be bound by these Terms and Conditions, you should
-        stop using our apps or games immediately.\r\n\r\nNo part of our apps or game
-        is intended to constitute a contractual offer capable of acceptance. Your
-        order constitutes a contractual offer, and our acceptance of that offer is
-        deemed to occur upon our sending a dispatch email to you indicating that
-        your order has been fulfilled and is on its way to you.\r\n\r\n1. Definitions
-        and Interpretation\r\nIn this Agreement the following terms shall have the
-        following meanings:\r\n\u201CAccount\u201D \u2013 means collectively your
-        Apple iTunes Store or Google Play Store account\r\n\u201CContent\u201D \u2013
-        means any text, graphics, images, audio, video, software, data compilations,
+      value: "Terms of Use for the Use of Muhammad Ubaid's Apps, Website, and Services\n\nThis
+        agreement applies as between you, the User, and Muhammad Ubaid for our apps,
+        website, and services. Your agreement to comply with and be bound by these
+        Terms and Conditions is deemed to occur upon your first use of our apps or
+        our Website. If you do not agree to be bound by these Terms and Conditions,
+        you should stop using our apps or this Website immediately.\n\nNo part of
+        our apps or this website is intended to constitute a contractual offer capable
+        of acceptance. Your order constitutes a contractual offer, and our acceptance
+        of that offer is deemed to occur upon our sending a dispatch email to you
+        indicating that your order has been fulfilled and is on its way to you.\n\n1.
+        Definitions and Interpretation\nIn this Agreement, the following terms shall
+        have the following meanings:\n\n\u201CAccount\u201D \u2013 means collectively
+        your Apple iTunes Store or Google Play Store account.\n\n\u201CContent\u201D
+        \u2013 means any text, graphics, images, audio, video, software, data compilations,
         and any other form of information capable of being stored in a computer that
-        appears on or forms part of this Website;\r\n\r\n\u201CService\u201D \u2013
+        appears on or forms part of this Website.\n\n\u201CMuhammad Ubaid\u201D \u2013
+        means Muhammad Ubaid, trading as Muhammad Ubaid.\n\n\u201CService\u201D \u2013
         means collectively any online facilities, tools, services, or information
-        that Learning Spectrum makes available through our apps or website either
-        now or in the future.\r\n\u201CPayment Information\u201D \u2013 means any
-        details required for the purchase of Services from this Website. This includes,
-        but is not limited to, credit/debit card numbers, bank account numbers, and
-        sort codes;\r\n\u201CPurchase Information\u201D \u2013 means collectively
-        any orders, invoices, receipts, or similar that may be in hard copy or electronic
-        form;\r\n\u201CSystem\u201D \u2013 means any online communications infrastructure
-        that Learning Spectrum makes available through our App or Website either
-        now or in the future. This includes, but is not limited to, web-based email,
-        message boards, live chat facilities, and email links;\r\n\u201CUser / Users\u201D
-        \u2013 means any third party that accesses the Website and is not employed
-        by Learning Spectrum and acting in the course of their employment.\r\n\r\n2.
-        Intellectual Property\r\n2.1 Subject to the exceptions in Clause 3 of these
-        Terms of Use, all Content included on our apps, this website, and Services,
-        unless uploaded by Users, including, but not limited to, text, graphics,
-        logos, icons, images, sound clips, video clips, data compilations, page layout,
-        underlying code, and software is the property of Learning Spectrum, our affiliates,
-        or other relevant third parties. By continuing to use the Website and Services
-        you acknowledge that such material is protected by applicable United Kingdom
-        and International intellectual property and other laws.\r\n2.2 Subject to
-        Clause 4 you may not reproduce, copy, distribute, store, or in any other
-        fashion re-use material from our Apps and website unless otherwise indicated
-        on the Website or unless given express written permission to do so by Learning
-        Spectrum.\r\n\r\n3. Third Party Intellectual Property\r\n3.1 Unless otherwise
-        expressly indicated, all Intellectual Property rights including, but not
-        limited to, Copyright and Trademarks, in product images and descriptions
-        belong to the manufacturers or distributors of such products as may be applicable.\r\n3.2
-        Subject to Clause 5 you may not reproduce, copy, distribute, store, or in
-        any other fashion re-use such material unless otherwise indicated on the
-        Website or unless given express written permission to do so by the relevant
-        manufacturer or supplier.\r\n\r\n4. Fair Use of Intellectual Property\r\nMaterial
-        from the Website may be re-used without written permission where any of the
-        exceptions detailed in Chapter III of the Copyright Designs and Patents Act
-        1988 apply.\r\n\r\n5. Links to Other Websites\r\nThis Website may contain
-        links to other sites. Unless expressly stated, these sites are not under
-        the control of Learning Spectrum or that of our affiliates. We assume no
-        responsibility for the content of such Websites and disclaim liability for
-        any and all forms of loss or damage arising out of the use of them. The inclusion
-        of a link to another site on this Website does not imply any endorsement
-        of the sites themselves or of those in control of them.\r\n\r\n6. Links to
-        our Website\r\nThose wishing to place a link to this Website on other sites
-        may do so only with prior permission from Learning Spectrum. Deep linking
-        (i.e. links to specific pages within the site) requires the express permission
-        of Learning Spectrum.\r\n\r\n7. Use of Communications Facilities\r\n7.1 When
-        using the enquiry form or any other System on the Website you should do so
-        in accordance with the following rules:\r\n7.1.1 You must not use obscene
-        or vulgar language\r\n7.1.2 You must not submit Content that is unlawful
-        or otherwise objectionable. This includes, but is not limited to, Content
-        that is abusive, threatening, harassing, defamatory, ageist, sexist or racist;\r\n7.1.3
-        You must not submit Content that is intended to promote or incite violence;\r\n7.1.4
-        It is advised that submissions are made using the English language as we
-        may be unable to respond to enquiries submitted in any other languages;\r\n7.1.5
-        The means by which you identify yourself must not violate these terms of
-        use or any applicable laws;\r\n7.1.6 You must not impersonate other people,
-        particularly employees and representatives of Learning Spectrum or our affiliates;
-        and\r\n7.1.7 You must not use our System for unauthorized mass-communication
-        such as \u201Cspam\u201D or \u201Cjunk mail\u201D.\r\n7.2 You acknowledge
-        that Learning Spectrum reserves the right to monitor any and all communications
-        made to us or using our System.\r\n\r\n8. Accounts\r\n8.1 Our Apps are free
-        to play with limited access to its video and puzzle game content.\r\n8.2
-        Subscriptions are based on a monthly basis.\r\n8.3 Payments will be charged
-        to iTunes Account or Google Play Store Account at confirmation of purchase.\r\n8.4
-        Your subscription will be charged for renewal within 24-hours prior to the
-        end of the current period, and identify the cost of the renewal.\r\n8.5 Subscriptions
-        may be managed by the user and auto-renewal may be turned off by going to
-        the Account Settings after purchase.\r\n8.6 Any unused portion of a free
-        trial period, if offered, will be forfeited when the user purchases a subscription
-        to that publication, where applicable.\r\n\r\n9. Termination and Cancellation\r\n9.1
-        You may terminate your Account at any time and may be turned off by going
-        to the Account Settings after purchase.\r\n9.2 If orders or payments are
-        cancelled for any reason prior to commencement of Services provision you
-        will be refunded any dues paid in relation to those purchases.\r\n9.3 Any
-        unused portion of a free trial period, if offered, will be forfeited when
-        the user purchases a subscription to that publication, where applicable.\r\n\r\n10.
-        Payment\r\n10.1 Payments will be charged to iTunes Account or Google Play
-        Store Account at confirmation of purchase.\r\n10.2 Your subscription will
-        be charged for renewal within 24-hours prior to the end of the current period,
-        and identify the cost of the renewal.\r\n\r\n11. Services, Pricing, and Availability\r\n11.1
-        Whilst every effort has been made to ensure that all descriptions of Services
-        available from Learning Spectrum correspond to the actual Services, Learning
-        Spectrum is not responsible for any variations from these descriptions. This
-        does not exclude our liability for mistakes due to negligence on our part
-        and refers only to variations of the correct Services, not different Services
-        altogether. Please refer to sub-Clause 12.4 for incorrect Services.\r\n11.2
-        Where appropriate, you may be required to select the required Services.\r\n11.3
-        All pricing information on the Website is correct at the time of going online.
-        Learning Spectrum reserves the right to change prices and alter or remove
-        any special offers from time to time and as necessary. All pricing information
-        is reviewed and updated every calendar month.\r\n11.4 In the event that prices
-        are changed during the period between an order being placed for Services
-        and Learning Spectrum processing that order and taking payment, provision
-        of Services shall commence as per your order and you will be charged the
-        original price.\r\n\r\n12. Provision of Services\r\n12.1 Provision of Services
-        shall commence when full payment has been received or as otherwise detailed
-        in the Terms Conditions pertaining directly to those Services.\r\n12.2 Learning
-        Spectrum shall use its best endeavours to provide the Services with reasonable
-        skill and care.\r\n12.3 Provision of all Services shall be subject to the
-        terms of use pertaining directly to those Services.\r\n12.4 In the event
-        that Services are provided that are not in conformity with your order and
-        thus incorrect, you should contact us within 10 days to inform us of the
-        mistake.Learning Spectrum will ensure that any necessary corrections to the
-        Services provided are made within 7 working days.\r\n12.5 Learning Spectrum
-        reserves the right to exercise discretion with respect to any alterations
-        to Services under the provisions of this Clause. Factors which may be taken
-        into account in the exercise of this discretion include, but are not limited
-        to:\r\n12.5.1 Any use or enjoyment that you may have already derived from
-        the Services;\r\n12.5.2 Any characteristics of the Services which may mean
-        that cessation of provision is impossible without significant further work
-        on the part and at the expense of Learning Spectrum.\r\nSuch discretion to
-        be exercised only within the confines of the law.\r\n\r\n13. Privacy\r\nUse
-        of the Website is also governed by our Privacy Policy which is incorporated
-        into these terms of use by this reference. To view the Privacy Policy, please
-        click on the link above.\r\n\r\n14. Disclaimers\r\n14.1 Learning Spectrum
-        makes no warranty or representation that the Website will meet your requirements,
-        that it will be of satisfactory quality, that it will be fit for a particular
-        purpose, that it will not infringe the rights of third parties, that it will
-        be compatible with all systems, that it will be secure and that all information
-        provided will be accurate. We make no guarantee of any specific results from
-        the use of our Services.\r\n14.2 No part of this Website is intended to constitute
-        advice and the Content of this Website should not be relied upon when making
-        any decisions or taking any action of any kind.\r\n14.3 No part of this Website
-        is intended to constitute a contractual offer capable of acceptance.\r\n\r\n15.\r\n\r\n
-        Changes to the Services and these Terms of Use\r\nLearning Spectrum reserves
-        the right to change the Website, its Content, or these Terms of Use at any
-        time. You will be bound by any changes to the Terms of Use from the first
-        time you use the Website following the changes. If Learning Spectrum is required
-        to make any changes to Terms of Use by law, these changes will apply automatically
-        to any orders currently pending in addition to any orders placed by you in
-        the future.\r\n\r\n16. Availability of the Website\r\nThe Service is provided
-        \u201Cas is\u201D and on an \u201Cas available\u201D basis. We give no warranty
-        that the Service will be free of defects and/or faults. To the maximum extent
-        permitted by law we provide no warranties (express or implied) of fitness
-        for a particular purpose, accuracy of information, compatibility, and satisfactory
-        quality. Learning Spectrum accepts no liability for any disruption or non-availability
-        of the Website resulting from external causes including, but not limited
-        to, ISP equipment failure, host equipment failure, communications network
-        failure, power failure, natural events, acts of war or legal restrictions,
-        and censorship.\r\n\r\n17. Limitation of Liability\r\n17.1 To the maximum
-        extent permitted by law, Learning Spectrum accepts no liability for any direct
-        or indirect loss or damage, foreseeable or otherwise, including any indirect,
-        consequential, special, or exemplary damages arising from the use of our
-        apps or website or any information contained therein. Users should be aware
-        that they use the Website and its Content at their own risk.\r\n17.2 Nothing
-        in these Terms of Use excludes or restricts Learning Spectrum's liability
-        for death or personal injury resulting from any negligence or fraud on the
-        part of Learning Spectrum.\r\n17.3 Nothing in these Terms of Use excludes
-        or restricts Learning Spectrum's liability for any direct or indirect loss
-        or damage arising out of the incorrect provision of Services or out of reliance
-        on incorrect information included on the Website.\r\n17.4 Whilst every effort
-        has been made to ensure that these terms of use adhere strictly with the
-        relevant provisions of the Unfair Contract Terms Act 1977, in the event that
-        any of these terms are found to be unlawful, invalid, or otherwise unenforceable,
-        that term is to be deemed severed from these terms of use and shall not affect
-        the validity and enforceability of the remaining terms of use. This term
-        shall apply only within jurisdictions where a particular term is illegal.\r\n\r\n18.
-        No Waiver\r\nIn the event that any party to these Terms of Use fails to exercise
-        any right or remedy contained herein, this shall not be construed as a waiver
-        of that right or remedy.\r\n\r\n20. Notices\r\nAll notices/communications
-        shall be given to us by email to minimasters043@gmail.com. Such notice will
-        be deemed received the day of sending if the email is received in full on
-        a business day and on the next business day if the email is sent on a weekend
-        or public holiday.\r\n\r\n21. Law and Jurisdiction\r\nThese terms of use
-        and the relationship between you and Learning Spectrum shall be governed
-        by and construed in accordance with the Law of England and Wales and Learning
-        Spectrum and you agree to submit to the exclusive jurisdiction of the Courts
-        of England and Wales."
+        that Muhammad Ubaid makes available through our apps or website either now
+        or in the future.\n\n\u201CPayment Information\u201D \u2013 means any details
+        required for the purchase of Services from this Website.\n\n\u201CPurchase
+        Information\u201D \u2013 means collectively any orders, invoices, receipts,
+        or similar that may be in hard copy or electronic form.\n\n\u201CSystem\u201D
+        \u2013 means any online communications infrastructure that Muhammad Ubaid
+        makes available through our App or Website.\n\n\u201CUser / Users\u201D \u2013
+        means any third party that accesses the Website and is not employed by Muhammad
+        Ubaid and acting in the course of their employment.\n\n2. Intellectual Property\n2.1.
+        Subject to the exceptions in Clause 3, all Content on our apps, website,
+        and Services is the property of Muhammad Ubaid or relevant third parties
+        and is protected by applicable intellectual property laws.\n\n2.2. Except
+        as allowed under Clause 4, you may not reproduce or reuse material from our
+        apps or website without express written permission.\n\n3. Third Party Intellectual
+        Property\n3.1. All IP rights in product images and descriptions belong to
+        the respective manufacturers or suppliers.\n\n3.2. You may not reproduce
+        or reuse such material without permission from the relevant owners.\n\n4.
+        Fair Use of Intellectual Property\nContent may be re-used without permission
+        only as allowed under Chapter III of the Copyright Designs and Patents Act
+        1988.\n\n5. Links to Other Websites\nLinks on our site may lead to third-party
+        sites not under our control. We are not responsible for their content or
+        practices.\n\n6. Links to Our Website\nYou may only link to this Website
+        with prior permission from Muhammad Ubaid. Deep linking requires express
+        permission.\n\n7. Use of Communications Facilities\n7.1. When using our System,
+        you must:\n\nNot use obscene or offensive language\n\nNot submit unlawful
+        or harmful content\n\nNot impersonate others\n\nNot submit spam or mass communications\n\nSubmit
+        in English where possible\n\n7.2. We reserve the right to monitor communications
+        via our System.\n\n8. Accounts\n8.1. Our apps are free to play with limited
+        access to content.\n8.2. Subscriptions are monthly.\n8.3. Payments are charged
+        through iTunes or Google Play.\n8.4. Renewals are charged within 24 hours
+        before the end of the current period.\n8.5. You can manage your subscription
+        and turn off auto-renewal via Account Settings.\n8.6. Any unused free trial
+        will be forfeited upon subscription purchase.\n\n9. Termination and Cancellation\n9.1.
+        You can cancel your Account via Account Settings.\n9.4. Cancellations before
+        the service starts may be eligible for refunds.\n9.5. Unused free trial periods
+        are forfeited upon subscription purchase.\n\n10. Payment\n10.1. Payments
+        are processed through your app store account.\n10.2. Renewals are processed
+        within 24 hours of the current subscription ending.\n\n11. Services, Pricing,
+        and Availability\n11.1. Prices may change and offers may be updated monthly.\n\n12.
+        Provision of Services\n12.1. We aim to provide our services with reasonable
+        skill and care.\n12.2. If a mistake occurs in your order, contact us within
+        10 days. We\u2019ll resolve issues within 7 working days.\n\n13. Privacy\nOur
+        Privacy Policy governs use of the Website and is incorporated into these
+        Terms.\n\n14. Disclaimers\n14.1. We make no guarantee that the Website will
+        meet your needs or be secure.\n14.2. Nothing on this Website is intended
+        to constitute professional advice.\n\n15. Changes to Services and Terms\nWe
+        reserve the right to change the Website, its Content, or these Terms at any
+        time.\n\n16. Availability\nThe Service is provided \u201Cas is\u201D and
+        \u201Cas available\u201D.\n\n17. Limitation of Liability\n17.1. We accept
+        no liability for any direct or indirect loss or damage from use of our apps
+        or website.\n17.2. This does not exclude liability for death or injury due
+        to negligence or fraud.\n\n18. No Waiver\nFailure to enforce any right does
+        not waive that right.\n\n19. Notices\nSend all communications to:\nEmail:
+        ubaidshahid125@gmail.com\n\nMessages are deemed received the same day if
+        on a business day or the next business day otherwise.\n\n20. Law and Jurisdiction\nThese
+        Terms are governed by the laws of Pakistan. Any disputes shall be subject
+        to the exclusive jurisdiction of Pakistani courts."
       objectReference: {fileID: 0}
     - target: {fileID: 5575410183151817121, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -21663,9 +21554,13 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6836324022894623522, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6998632107269260712, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_Text
-      value: 'Learning Spectrum believes that children learn most effectively through
+      value: 'Muhammad Ubaid believes that children learn most effectively through
         play. Our mission is to create magical experiences that give kids the freedom
         to grow and thrive. We are dedicated to producing content that is as rich,
         engaging, and full of life as the young minds who enjoy it.
@@ -21696,7 +21591,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7666793823054562393, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_Text
-      value: For the use of Learning Spectrum  / Games and Services
+      value: For the use of Muhammad Ubaid / Games and Services
       objectReference: {fileID: 0}
     - target: {fileID: 8093479019004811998, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_Name
@@ -21764,7 +21659,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8943444652647079184, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 116.7
+      value: 116.70001
       objectReference: {fileID: 0}
     - target: {fileID: 8943444652647079184, guid: d83b9fcb210bc4153875c3b4bfa2c765, type: 3}
       propertyPath: m_AnchoredPosition.y

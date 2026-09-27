@@ -39,8 +39,8 @@ public class InappPanel : MonoBehaviour
         CancelInvoke(nameof(showCross));
         SoundHandler.instance.PlaySource(SoundHandler.instance.mySource.clip);
         removeAdsPanel.GetComponent<Animator>().Play("PanelOut");
-      //  InitializeFirebase_CB._Instance.LogFirebaseEvent("Inapp_CrossBtn_Pressed"); //lock
-        InitializeFi._Instance.LogFi();
+        InitializeFirebase_CB._Instance.LogFirebaseEvent("Inapp_CrossBtn_Pressed"); //lock
+        //InitializeFi._Instance.LogFi();
         Invoke(nameof(HidePanel), 0.9f);
     }
     void HidePanel()

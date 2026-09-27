@@ -101,8 +101,8 @@ namespace KGF.Coloring
             //ServiceManager.instance.selectedCharacter.CurrentCharacter_new.transform.localPosition = new Vector3(0, -2, 0);
            Camera_Pos cam_pos = ServiceManager.instance.selectedCharacter.CurrentCharacter_new.GetComponent<Camera_Pos>();
 
-           // InitializeFirebase_CB._Instance.LogFirebaseEvent(ServiceManager.instance.selectedCharacter.CharacterBeenDrawn.name + "_SelectedCharacter");
-            InitializeFi._Instance.LogFi();
+            InitializeFirebase_CB._Instance.LogFirebaseEvent(ServiceManager.instance.selectedCharacter.CharacterBeenDrawn.name + "_SelectedCharacter");
+            //InitializeFi._Instance.LogFi();
 
             ServiceManager.instance.selectedCharacter.images = new Texture2D[cam_pos.Character_Sprite.Length];
             ServiceManager.instance.selectedCharacter.White_Image = new Texture2D[cam_pos.WhiteSprite.Length];
@@ -135,9 +135,9 @@ namespace KGF.Coloring
         public IEnumerator LoadDrawingScene()
         {
             yield return new WaitForSeconds(delayTime);
-          //  InitializeFirebase_CB._Instance.LogFirebaseEvent(SceneManager.GetActiveScene().name+ "_IsCompleted");
-        //    InitializeFirebase_CB._Instance.LogFirebaseEvent("PaintScene_IsLoading");
-            InitializeFi._Instance.LogFi();
+            InitializeFirebase_CB._Instance.LogFirebaseEvent(SceneManager.GetActiveScene().name + "_IsCompleted");
+            InitializeFirebase_CB._Instance.LogFirebaseEvent("PaintScene_IsLoading");
+            //InitializeFi._Instance.LogFi();
             // Loading.cameFrom = "SubSelection";
             SceneManager.LoadScene("ColorGamePlay");//loading
         }
