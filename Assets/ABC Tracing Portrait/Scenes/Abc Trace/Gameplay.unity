@@ -676,7 +676,7 @@ MonoBehaviour:
   parentTransform: {fileID: 1215068542}
   horizontalMin: -400
   horizontalMax: 450
-  verticalPosition: -900
+  verticalPosition: -1600
   duration: 10
   loader: {fileID: 6809575777814604956}
 --- !u!114 &380776329
