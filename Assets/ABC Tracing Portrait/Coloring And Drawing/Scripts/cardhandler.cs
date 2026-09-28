@@ -22,8 +22,8 @@ public class cardhandler : MonoBehaviour
         ToolGrid.SelectedTool = 0;
         if (ResCheck.ResolutionType == ResType.tab)
         {
-            print("i am tab");
-            content2.localScale=new Vector3(0.9f, 0.9f, 0.9f);
+          //  print("i am tab");
+          //  content2.localScale=new Vector3(0.9f, 0.9f, 0.9f);
         }
     }
     private void OnEnable()
@@ -61,7 +61,7 @@ public class cardhandler : MonoBehaviour
     }
     public void Home()
     {
-        Intitializeabc.instance.HideBanner();//remove after   
+        Intitializeabc.instance.HideBanner();//remove after
         //SoundManager.instance.PlayButtonSound(0);
         PlayerPrefs.SetInt("Completed", 1);
         PlayerPrefs.SetInt("RateCounter", PlayerPrefs.GetInt("RateCounter") + 1);

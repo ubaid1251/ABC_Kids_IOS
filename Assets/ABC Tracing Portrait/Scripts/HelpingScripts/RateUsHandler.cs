@@ -30,7 +30,7 @@ public class RateUsHandler : MonoBehaviour
         Intitializeabc.instance.ShowBanner();//remove later
         PlayerPrefs.SetInt("RateDone", 1);
         rate.SetActive(false);
-        InAppReview.Instance.ShowInGameRating();
+      //  InAppReview.Instance.ShowInGameRating();
     }
 
     public void Cross()
@@ -48,7 +48,7 @@ public class RateUsHandler : MonoBehaviour
     }
     public bool CheckRateCondition()
     {
-        
+
         if (PlayerPrefs.GetInt("RateDone") == 0)
         {
             Debug.Log("rateUs Issue");

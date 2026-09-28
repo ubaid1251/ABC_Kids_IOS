@@ -1,5 +1,4 @@
 using UnityEngine;
-using static UnityEditor.Timeline.TimelinePlaybackControls;
 
 public class CheckReso : MonoBehaviour
 {
@@ -19,6 +18,6 @@ public class CheckReso : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }

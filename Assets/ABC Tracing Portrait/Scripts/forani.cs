@@ -1,16 +1,20 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UI;
+
 
 public class forani : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public ScrollRect scroll;
    public void offAnim()
     {
+        scroll.enabled = true;
         GetComponent<Animator>().enabled = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
