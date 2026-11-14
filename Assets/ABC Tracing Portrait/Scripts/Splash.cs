@@ -26,7 +26,8 @@ public class Splash : MonoBehaviour
         }
         else
         {
-            privacyP.SetActive(true);
+        //    privacyP.SetActive(true);
+            Invoke(nameof(Accept), 1);
         }
     }
 
